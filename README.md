@@ -1,4 +1,4 @@
-# Oii eu Sou a Sabrina 🌺
+# Oii eu sou a Sabrina - Cursando Informática 🌺
 
 - 👩🏽‍💻 Aprendendo sobre informática para Internet
 - 🥰 Apaixonada por front-end 
