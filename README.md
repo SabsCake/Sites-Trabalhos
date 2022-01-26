@@ -1,9 +1,9 @@
 # Oii eu sou a Sabrina - Cursando Informática 🌺
 
 - 👩🏽‍💻 Aprendendo sobre informática para Internet
-- 🥰 Apaixonada por front-end 
+- 🥰 Back-end 
 - 🤠 Estudando: PHP 
-- ☕ Café
+- ☕ Paixão: Café
 
 <div align="center">
   <a href="https://github.com/SabsCake">
