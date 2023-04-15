@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/SabsCake/SabsCake/main/profile-summary-card-output/algolia/4-productive-time.svg)
-```
-
-    
